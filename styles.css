@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.GiangClock {
+    background-image: url(Giang1.jpeg);
+    height: 517px;
+    /* width: 50%; */
+    background-size:contain;
+}
+
+.containerClock {
+    padding: 20px;
+    background-color: #ffff;
+    display: inline-block;
+    text-align: center;
+    border-radius: 8px;
+}
+.btnChangeBg {
+    padding: 10px
+}
